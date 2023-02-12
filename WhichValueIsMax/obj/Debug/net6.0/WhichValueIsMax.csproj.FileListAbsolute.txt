@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\bin\Debug\net6.0\WhichValueIsMax.exe
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\bin\Debug\net6.0\WhichValueIsMax.deps.json
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\bin\Debug\net6.0\WhichValueIsMax.runtimeconfig.json
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\bin\Debug\net6.0\WhichValueIsMax.dll
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\bin\Debug\net6.0\WhichValueIsMax.pdb
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.dll
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\refint\WhichValueIsMax.dll
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.pdb
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\WhichValueIsMax.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWork1\WhichValueIsMax\obj\Debug\net6.0\ref\WhichValueIsMax.dll
